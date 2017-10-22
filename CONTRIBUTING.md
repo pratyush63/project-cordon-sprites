@@ -9,7 +9,7 @@
 
 ## General
 
-- original content
+- Original content
 
 ## Size
 
@@ -25,9 +25,9 @@
 
 ## Style
 
-- pixel-art (1x1 pixels)
-- realistic style
-- small palettes
+- Pixel-art (1x1 pixels)
+- Realistic style
+- Small palettes
 
 ## Don'ts
 
